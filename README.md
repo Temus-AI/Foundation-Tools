@@ -1,7 +1,7 @@
 # Foundation-Tools
 Foundation Tools for AI &amp; Data
 
-1. ## Pandas-AI
+## 1.Pandas-AI
 #### Post: https://blog.pandas-ai.com/pandasai-v2-0-smarter-more-powerful-and-easier-to-use/
 #### Repo: https://github.com/Sinaptik-AI/pandas-ai?ref=blog.pandas-ai.com
 #### LLM: https://huggingface.co/pandasai/bamboo-llm
